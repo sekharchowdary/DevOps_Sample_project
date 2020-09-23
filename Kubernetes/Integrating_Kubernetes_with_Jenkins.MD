@@ -14,7 +14,7 @@
      - Copy from: `Deploy_on_Docker_Container_using_Ansible_playbooks`
      
    - *Source Code Management:*
-      - Repository: `https://github.com/yankils/hello-world.git`
+      - Repository: `https://github.com/sekharchowdary/Hello-World-Master.git`
       - Branches to build : `*/master`  
    - *Poll SCM* :      - `* * * *`
 
